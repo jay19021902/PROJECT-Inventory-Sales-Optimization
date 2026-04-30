@@ -1,2 +1,2 @@
 # PROJECT-Inventory-Sales-Optimization
-“A retail company is struggling to manage inventory efficiently. Some products frequently go out of stock, while others remain unsold. The company wants to analyze sales and inventory data to optimize stock levels, reduce losses, and improve decision-making.”
+Retail inventory analysis project using Excel, SQL, and Power BI to track sales, detect low-stock items, and optimize inventory decisions through data-driven insights and dashboards.
